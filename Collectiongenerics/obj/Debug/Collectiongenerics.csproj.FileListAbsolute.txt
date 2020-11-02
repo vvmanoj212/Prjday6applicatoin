@@ -1,0 +1,7 @@
+F:\training\c#\day6\Collectioneg\Collectiongenerics\bin\Debug\Collectiongenerics.exe.config
+F:\training\c#\day6\Collectioneg\Collectiongenerics\bin\Debug\Collectiongenerics.exe
+F:\training\c#\day6\Collectioneg\Collectiongenerics\bin\Debug\Collectiongenerics.pdb
+F:\training\c#\day6\Collectioneg\Collectiongenerics\obj\Debug\Collectiongenerics.csproj.CoreCompileInputs.cache
+F:\training\c#\day6\Collectioneg\Collectiongenerics\obj\Debug\Collectiongenerics.exe
+F:\training\c#\day6\Collectioneg\Collectiongenerics\obj\Debug\Collectiongenerics.pdb
+F:\training\c#\day6\Collectioneg\Collectiongenerics\obj\Debug\Collectiongenerics.csprojAssemblyReference.cache

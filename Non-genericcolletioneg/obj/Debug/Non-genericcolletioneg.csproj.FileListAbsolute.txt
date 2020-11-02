@@ -1,0 +1,7 @@
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\obj\Debug\Non-genericcolletioneg.csprojAssemblyReference.cache
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\obj\Debug\Non-genericcolletioneg.csproj.CoreCompileInputs.cache
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\bin\Debug\Non-genericcolletioneg.exe.config
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\bin\Debug\Non-genericcolletioneg.exe
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\bin\Debug\Non-genericcolletioneg.pdb
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\obj\Debug\Non-genericcolletioneg.exe
+F:\training\c#\day6\Collectioneg\Non-genericcolletioneg\obj\Debug\Non-genericcolletioneg.pdb

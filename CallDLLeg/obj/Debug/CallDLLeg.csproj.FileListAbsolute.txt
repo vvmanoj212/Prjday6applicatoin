@@ -1,0 +1,10 @@
+F:\training\c#\day6\Collectioneg\CallDLLeg\obj\Debug\CallDLLeg.csprojAssemblyReference.cache
+F:\training\c#\day6\Collectioneg\CallDLLeg\obj\Debug\CallDLLeg.csproj.CoreCompileInputs.cache
+F:\training\c#\day6\Collectioneg\CallDLLeg\bin\Debug\CallDLLeg.exe.config
+F:\training\c#\day6\Collectioneg\CallDLLeg\bin\Debug\CallDLLeg.exe
+F:\training\c#\day6\Collectioneg\CallDLLeg\bin\Debug\CallDLLeg.pdb
+F:\training\c#\day6\Collectioneg\CallDLLeg\bin\Debug\Normalcalculator.dll
+F:\training\c#\day6\Collectioneg\CallDLLeg\bin\Debug\Normalcalculator.pdb
+F:\training\c#\day6\Collectioneg\CallDLLeg\obj\Debug\CallDLLeg.csproj.CopyComplete
+F:\training\c#\day6\Collectioneg\CallDLLeg\obj\Debug\CallDLLeg.exe
+F:\training\c#\day6\Collectioneg\CallDLLeg\obj\Debug\CallDLLeg.pdb
